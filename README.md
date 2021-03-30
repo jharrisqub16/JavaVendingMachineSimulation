@@ -27,7 +27,7 @@ Option 7: Quit
 Will exit the Vending Machine application. 
 
 
-#Admin Mode:
+# Admin Mode:
 Option 1: View All Information
 This gives the admin a description of the Vending Machine which includes details about the owner, maximum item count, item count, total money, user money, status, the admin password as well as an overlook of the items themselves.
 
